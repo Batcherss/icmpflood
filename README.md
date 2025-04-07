@@ -10,7 +10,7 @@ This is just an example of the work of the icmp/udp flood attack
 ![Go Version](https://img.shields.io/badge/Go-%3E%3D%201.18-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-1.0.3-blue)
-![OS Support](https://img.shields.io/badge/OS-Supported%20Windows%2C%20Unix%2C%20MacOS%2C%20FreeBSD-lightgray)
+![OS Support](https://img.shields.io/badge/OS-Linux%20%7C%20Windows-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/Batcherss/icmpspam)
 
 ## Description
