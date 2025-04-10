@@ -5,7 +5,7 @@ This is just an example of the work of the icmp/udp flood attack
 
 # Main
 
-![Repo Size](https://img.shields.io/github/repo-size/Batcherss/icmpspam?color=green)
+![Repo Size](https://img.shields.io/github/repo-size/Batcherss/icmpflood?color=green)
 ![Rtstress state](https://img.shields.io/badge/Status-WIP-yellow)
 ![Go Version](https://img.shields.io/badge/Go-%3E%3D%201.18-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -28,12 +28,12 @@ How to Run
 Clone the repository:
 
 ```git
-git clone https://github.com/Batcherss/icmpspam.git
+git clone https://github.com/Batcherss/icmpflood.git
 ```
 
 Enter the folder:
 ```cmd
-cd icmpspam
+cd icmpflood
 ```
 
 Install the necessary dependencies (if not already installed):
